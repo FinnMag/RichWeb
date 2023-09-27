@@ -9,7 +9,7 @@
 .box-1 {    
 /* I can add a padding to the content, adding background to the element (and, consequently, more space around it) */
     padding: 4em;
-    background-color: #EB5757;
+    background-color: #e72727;
     border: 0em solid #27AE60;
     margin: 0.5em;
     
@@ -23,7 +23,7 @@
 .box-2 {
   
     padding: 4em;
-    background-color: #2D9CDB;
+    background-color: #03669f;
     border: 0 solid #27AE60;
     
  /* Do not forget the behaviour known as margin collapsing. When two elements have two different margins, they will be separated by the highest one.  */
@@ -34,14 +34,14 @@
 
 .box-3 {
     padding: 4em;
-    background-color: #00FF00;
+    background-color: #188418;
     border: 0em solid #27AE60;
     margin: 0.5em;    
 }
 
 .box-4 {
     padding: 4em;
-    background-color: #FFFF00;
+    background-color: #ecec62;
     border: 0em solid #27AE60;
     margin: 0.5em;    
 }
