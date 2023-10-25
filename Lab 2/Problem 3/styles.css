@@ -1,0 +1,65 @@
+/* Reset default margin and padding */
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(62,62,66);
+}
+
+h1 {
+    color: rgb(211, 211, 211)
+}
+
+.search {
+    width: 80%;
+    padding: 1em;
+    margin: auto;
+    margin-bottom: 2%;
+}
+
+#username {
+    width: 60%;
+    padding: 1em;
+    border: 1px solid rgb(141, 141, 141);
+    margin:auto;
+    border-radius: 10px;
+}
+
+#searchButton {
+    width: 20%;
+    padding: 1em;
+    margin:auto;
+    border-radius: 10px;
+    border: 1px solid rgb(141, 141, 141);
+}
+
+#searchButton:hover {
+    background-color: #aec6e0;
+}
+
+.profile {
+    float: left;
+    background-color: gray;
+    position: relative;
+    width: 35%;
+    margin-left: 5%;
+    color:rgb(211, 211, 211)
+    
+}
+
+.repos {
+    float: right;
+    background-color: gray;
+    position: relative;
+    width: 35%;
+    margin-right: 5%;
+    color:rgb(211, 211, 211)
+}
+
+#image {
+    border-radius: 20%;
+    border: 2px solid rgb(95, 95, 95);
+}
+  
+
+
+  

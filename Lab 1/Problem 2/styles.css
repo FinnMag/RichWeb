@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+.note-container {
+    width: 50%;
+    margin: auto;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+.note {
+    
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.color-selector {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.color-option {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.color-option:hover {
+    border: 2px solid #000;
+}
